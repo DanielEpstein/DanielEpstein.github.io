@@ -11,6 +11,8 @@ body {
   	min-height: 100%;
 	background-color: #223333; /*page background colour*/
     font-family: 'Microsoft YaHei', 'SimHei', sans-serif;
+	/*'Consolas', 'Courier New', monospace;*/
+	/*'Microsoft YaHei', 'SimHei', sans-serif;*/
 }
 article p{
 	/*text-indent: 2em;*/
@@ -53,6 +55,7 @@ table td{
 
 /* navbar */
 nav{
+	
 	-webkit-box-shadow: 0 2px 4px rgba(0,0,0,0.5);
 	-moz-box-shadow: 0 2px 4px rgba(0,0,0,0.5);
 	-o-box-shadow: 0 2px 4px rgba(0,0,0,0.5);
@@ -67,10 +70,17 @@ header a:visited {color: #707070}
 header a:hover {color: #eff284;text-decoration: none;}
 header a:active {color: #eff284}
 */
+
+
 /*header{
+	position: fixed;
+	right: 0;
+  	top: 0;
+  	left: 0;
 	background-color: #ff00c3;
 	color: #ff00c3;
-}
+}*/
+/*
 
 .navbar-default {
 
@@ -78,10 +88,17 @@ header a:active {color: #eff284}
 .navbar-nav {
 
 }
-.navbar-brand { /*navbar name area*/
+*/
 
+/*navbar name area*/
+/*
+.navbar-brand { 
 }
-.navbar-inverse { /*navbar whole area*/
+*/
+
+/*navbar whole area*/
+/*
+.navbar-inverse { 
 background-color: #1e1e1e;
 }
 .navbar-static-top {
@@ -92,7 +109,17 @@ background-color: #1e1e1e;
 }
 .navbar-fixed-bottom {
 
-}*/
+}
+*/
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #eff284;
+    margin: 1em 0;
+    padding: 0; 
+}
+
 
 .navbar-nav li{
 	min-width: 95px;
@@ -102,6 +129,7 @@ background-color: #1e1e1e;
 /* index main */
 .main{
 	/*min-height: 800px;*/
+	min-height: 100%;
 	color: #a6a6a6 /*main colour text*/
 }
 .post-area{
@@ -243,7 +271,7 @@ background-color: #1e1e1e;
 
 /* footer */
 footer{
-	position: absolute;
+	position: fixed;
 	right: 0;
   	bottom: 0;
   	left: 0;

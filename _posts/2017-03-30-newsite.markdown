@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "New Site Created"
+title:  "Bare bones site/blog created"
 date:   2017-03-30
 categories: Site
 comments: false
 ---
-Wahoo!
+Bare bones site/blog created.
