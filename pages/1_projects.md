@@ -16,7 +16,7 @@ permalink: /projects/
 I started working on the this game since February 11, 2017 and it has been inspired from a game called Tyrian. I want to bring modern graphics along with virtual reality (seated) support.
 <a href="/assets/images/scrollingshooter.jpg"><img src="/assets/images/scrollingshooter-thumb.jpg" style="width:320px;height:180px;"></a>
 * #### Brain Image
-I am currently working with a guy at Queensland Brian Institute(UQ) in creating a application that shows human brain dna expressions in virtual reality (room scale).
+I am currently working with a guy at Australian Institute for Bioengineering and Nanotechnology in creating a application that shows human brain dna expressions in virtual reality (room scale).
 * #### ScramJet
 I havnt started this yet, though I want to create a scamjet virtual reality experence.
 * #### 3D Brick
