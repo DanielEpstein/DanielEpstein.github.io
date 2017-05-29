@@ -13,12 +13,13 @@ permalink: /projects/
 ## Desktop
 <hr>
 * #### Scrolling Shooter
-I started working on the this game since February 11, 2017 and it has been inspired from a game called Tyrian. I want to bring modern graphics along with virtual reality (seated) support.
+I started working on the this game since February 11, 2017 and it has been inspired from a game called Tyrian. I want to bring modern graphics along with virtual reality (seated) support.<br><br>
 <a href="/assets/images/scrollingshooter.jpg"><img src="/assets/images/scrollingshooter-thumb.jpg" style="width:320px;height:180px;"></a>
 * #### Brain Image
 I am currently working with a guy at Australian Institute for Bioengineering and Nanotechnology in creating a application that shows human brain dna expressions in virtual reality (room scale).
 * #### ScramJet
-I havnt started this yet, though I want to create a scamjet virtual reality experence.
+Started work on the scramjet project (26/05/2017), I have earth with orbiting objects using double precision, will start to look a plotting launch trajectory to earth the specified orbit and setting up a floating origin.<br><br>
+<a href="/assets/images/170529-scramjet.jpg"><img src="/assets/images/170529-scramjet-small.jpg" style="width:261px;height:180px;"></a>
 * #### 3D Brick
 In one of the weekend game jams I created a ruff prototype of a Arkanoid/Breakout clone in VR using hand controllers.
 * #### Greedy Gnomes
